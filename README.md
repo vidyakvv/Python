@@ -1,2 +1,2 @@
 # Python
-This repository consists of Python projects
+This repository consists of Leetcode problems and solutions in Python
