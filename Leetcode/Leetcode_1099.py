@@ -9,8 +9,6 @@ Explanation:
 We can use 34 and 24 to sum 58 which is less than 60.
 """
 
-
-
 class Solution:
     def twoSumLessThanK(self, A: List[int], K: int) -> int:
         ans = -1

@@ -19,7 +19,7 @@ class Node:
 """
 class Solution:
     def maxDepth(self, root: 'Node') -> int:
-        depth= []
+        depth = []
         height = 0
         if not root:
             return 0
